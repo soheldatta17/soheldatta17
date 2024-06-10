@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 Hey there, I'm Sohel Datta, a Developer on a journey to master programming for crafting exceptional user interfaces.
+**Most of my repositaries are private.**
 
 # 🔗 My Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sohel-datta.vercel.app)
