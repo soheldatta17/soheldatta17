@@ -58,8 +58,6 @@ Most of my repositories are private. 🔒
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheldatta17&show_icons=true&locale=en&layout=compact&count_private=true" alt="soheldatta17" /></p>
 
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheldatta17&" alt="soheldatta17" /></p>
 
 
