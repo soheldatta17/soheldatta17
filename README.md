@@ -5,14 +5,14 @@ Hey there, I'm Sohel Datta, a Developer on a journey to master programming for c
 ---
 
 
-# 🔗 My Portfolio:
+# 🔗 My Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sohel-datta.vercel.app)
 
 
 ---
 
 
-# ⚠️ Repository Information:
+# ⚠️ Repository Information
 Most of my repositories are private. 🔒
 
 
