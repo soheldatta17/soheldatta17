@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hey there, I'm Sohel Datta, a Developer on a journey to master programming for crafting exceptional user interfaces.
 
 
