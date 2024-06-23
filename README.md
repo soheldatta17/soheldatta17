@@ -69,6 +69,7 @@ Most of my repositories are private. 🔒
 
 # Badges 🏅🎖️
 [![](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2FScreenshot%202024-06-09%20at%2019-20-16%20Sohel%20Datta%20-%20soheldatta17%20HackerRank.png?alt=media&token=0709da16-c88f-46e4-ae13-3d40f32a5e9b)](https://www.hackerrank.com/profile/soheldatta17)
+[![](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2FScreenshot%202024-06-24%20at%2001-47-47%20soheldatta17%20-%20Naukri%20Code%20360.png?alt=media&token=5774cb83-9a68-4fe0-b5e0-c934b4d207ff)](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2FScreenshot%202024-06-24%20at%2001-47-47%20soheldatta17%20-%20Naukri%20Code%20360.png?alt=media&token=5774cb83-9a68-4fe0-b5e0-c934b4d207ff)
 
 
 
