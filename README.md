@@ -67,9 +67,18 @@ Most of my repositories are private. 🔒
 ---
 
 
-# 📈 Coding Profiles
+# Badges 🏅🎖️
 [![](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2FScreenshot%202024-06-09%20at%2019-20-16%20Sohel%20Datta%20-%20soheldatta17%20HackerRank.png?alt=media&token=0709da16-c88f-46e4-ae13-3d40f32a5e9b)](https://www.hackerrank.com/profile/soheldatta17)
+
+
+
+---
+
+
+# Certificates 📜🎓
 [![](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2FScreenshot%202024-06-09%20at%2019-22-28%20Sohel%20Datta%20-%20soheldatta17%20HackerRank.png?alt=media&token=d3cc85c5-6b85-4aea-9a61-35ca49b7a402)](https://www.hackerrank.com/profile/soheldatta17)
+[![](https://firebasestorage.googleapis.com/v0/b/sports-23788.appspot.com/o/projectFiles%2F1703877357212.jpg?alt=media&token=c3f9de16-95db-499b-977f-4e1427fa5ca1)](https://www.linkedin.com/posts/activity-7146579617888223232-q1hi?utm_source=share&utm_medium=member_desktop)
+
 
 
 ---
