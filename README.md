@@ -62,6 +62,11 @@ Most of my repositories are private. 🔒
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheldatta17&" alt="soheldatta17" /></p>
 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 
 
 ---
