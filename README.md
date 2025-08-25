@@ -17,17 +17,18 @@ Most of my repositories are private. 🔒
 
 # 🚀 Hackathon Highlights
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvbf9zXRGl4t_G2znnbcAlEtbF0yeguIPUg&s" alt="icon" width="40" height="40" style="border-radius:50%; display:inline-block; vertical-align:middle;">  
-**SMART BENGAL HACKATHON (RCC IIT, Kolkata)**  
+
+**SMART BENGAL HACKATHON (Runner-up)**  
 **May 2024** 
 
 - Participated in the Smart Bengal Hackathon organized by RCC IIT, Kolkata.
 - Our team, NovaByte, secured 2nd place in the hackathon.
 
 ---
-**STATUSCODE2 (IISER, Kalyani)**  
+**STATUSCODE2 (2nd Runner-up)**  
 **August 2025** 
 
-- Participated in the STATUSCODE2 organized by IIIT KAlyani in collaboration with IISER, Kolkata.
+- Participated in the STATUSCODE2 organized by IIIT Kalyani in collaboration with IISER, Kolkata.
 - Our team, String Theory, secured 3rd place in the hackathon.
 
 ---
