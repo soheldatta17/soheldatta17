@@ -32,16 +32,6 @@ Most of my repositories are private. 🔒
 
 ---
 
-# 🛠️ Open Source Contributor & Maintainer
-
-- **SWOC'24:**
-  - Contributed to open source projects, embracing the spirit of collaborative coding.
-
-- **GSOC'24:**
-  - Continued my open source journey by actively participating and contributing in the Winter of Code.
-
----
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohel_datta17) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohel-datta-68927828a/) 
