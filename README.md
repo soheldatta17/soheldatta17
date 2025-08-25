@@ -24,6 +24,13 @@ Most of my repositories are private. 🔒
 - Our team, NovaByte, secured 2nd place in the hackathon.
 
 ---
+**STATUSCODE2 (IISER, Kalyani)**  
+**August 2025** 
+
+- Participated in the STATUSCODE2 organized by IIIT KAlyani in collaboration with IISER, Kolkata.
+- Our team, String Theory, secured 3rd place in the hackathon.
+
+---
 
 # 🛠️ Open Source Contributor & Maintainer
 
